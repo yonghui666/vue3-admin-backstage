@@ -87,6 +87,7 @@ resource	Res	生成一个新的CURD资源
 ```
 
 ## 参考文档
+> 参考博客：https://mp.weixin.qq.com/s/nEUkWE9dGgGSK1GVwUKNyg
 
 **首先了解这些 后端 生态圈的东西，会对你上手本项目有很大的帮助。**
 
